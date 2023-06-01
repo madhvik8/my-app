@@ -5,7 +5,7 @@ body{
     text-align:center;
 }
 .container{
-    background-color: blue;
+    background-color: lightblue;
     justify-content: center;
     width: 50%;
     margin-left: 26%;
@@ -19,13 +19,13 @@ input[type=text], select {
     margin: 30px 0;
     display: inline-block;
     border: 1px solid #ccc;
-    border-radius: 4px;
+    border-radius: 6px;
     box-sizing: border-box;
 }
 button{
     width:15%;
-    background-color: #4CAF50;
-    color:black;
+    background-color: pink;
+    color:rgb(113, 16, 103);
     padding: 14px 20px;
     margin: 8px 0;
     border: none;
@@ -39,20 +39,20 @@ button:hover {
 .header{
     width: 100%;
     padding: 12px 20px;
-    color: white;
+    color: rgb(159, 32, 54);
     font-size: 50px;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 .List-heading{
-    color: black;
+    color: rgb(47, 37, 153);
     font-size: 50px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align: left;
-    background-color: cadetblue;
+    background-color: rgb(95, 160, 163);
     width: 60%;
 }
 .listData{
-    color:black;
+    color:rgb(40, 28, 127);
     font-size: 20px;
     background-color: rgb(164, 203, 237);
     text-align: left;
